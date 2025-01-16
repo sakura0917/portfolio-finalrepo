@@ -1,0 +1,6 @@
+Hello world  
+This is a test  
+Find the pattern here  
+Another line of text  
+Sample sentence for testing  
+Grep helps in searching  
